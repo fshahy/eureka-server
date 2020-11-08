@@ -8,10 +8,10 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ir.delifery</groupId>
-	<artifactId>Food-DeliFery-Eureka-Server</artifactId>
+	<groupId>fshahy</groupId>
+	<artifactId>delifery-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Food-DeliFery-Eureka-Server</name>
+	<name>DeliFery Eureka Server</name>
 	<description>Prodvides Service Discovery for Food DeliFery Microservices</description>
 
 	<properties>
